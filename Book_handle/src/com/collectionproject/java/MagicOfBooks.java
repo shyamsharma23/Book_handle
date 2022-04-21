@@ -61,7 +61,7 @@ public class MagicOfBooks {
 			pair.put(id2, obj2);
 			user.setFavorite(obj2);
 			
-			System.out.println("Enter the info of Completed");
+			System.out.println("Enter the info of Completed book");
 			Book obj3 = new Book();
 			System.out.println("Enter the Book ID");
 			int id3 = sc.nextInt();
